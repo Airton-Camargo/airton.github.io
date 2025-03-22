@@ -1,0 +1,67 @@
+body{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: azure;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    /* padding-top: -30; */
+}
+
+.botones{
+    padding: 9px;
+    border-radius: 80px;
+    background-color: transparent;
+    border: none;
+}
+
+h1,h4{
+    text-align: center;
+    color: aliceblue;
+    font-style: italic;
+    
+}
+
+h6{
+    font-size: 30px;
+    text-align: center;
+    color: aliceblue;
+    font-style: italic;
+    
+}
+
+h4{
+    font-size: 25px;
+    color: aliceblue;
+    font-style: italic;
+    
+}
+
+p{
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+    
+}
+
+p{
+    text-align: center;
+    margin: 150px; 
+    font-style: italic;
+}
+
+img{
+    display: block;
+    margin: center;
+    
+}
+
+audio{
+    display: block;
+    margin: center;
+    
+}
